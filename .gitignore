@@ -40,3 +40,5 @@ env_vars
 
 tags
 
+config/database.yml
+
